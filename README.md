@@ -26,18 +26,15 @@ Profit Margin                     28.04%
  ## DASHBOARD PREVIEW
 1. Executive Dashboard provides a high-level view of pharmacy business performance including revenue, profit, sales, unit sold,            category   performance and geographical performance.
    
-  ![Executive Dashboard]
-  (EXECUTIVE_DASHBOARD.png)
+ ![Executivedashboard](https//github.com/FavourChinny/PHARMACY_SALES_ANALYSIS/blob/main/EXECUTIVE_DASHBOARD.png?raw=true)
 
 2. Store Performance Dashboard evaluates pharmacy performance by pharmacy type, store size, region and individual pharmacy location.
 
-   ![Store Performance Dashboard]
-   (STORE_PERFORMANCE.png)
+   ![Executivedashboard](https//github.com/FavourChinny/PHARMACY_SALES_ANALYSIS/blob/main/STORE_PERFORMANCE.png?raw=true)
 
 3. Products Performance Dashboard analyzes product categories, brands, revenue, profit margin, pack sizes, regional profit and country-     level revenue.
 
-    ![Products Performance Dashboard]
-    (PRODUCT_PERFORMANCE.png)
+   ![Executivedashboard](https//github.com/FavourChinny/PHARMACY_SALES_ANALYSIS/blob/main/PRODUCT_PERFORMANCE.png?raw=true)
 
  ## KEY INSIGHTS
  - Total revenue generated was 8.63M (EURO).
