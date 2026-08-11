@@ -36,7 +36,8 @@ Profit Margin                     28.04%
 
 3. Products Performance Dashboard analyzes product categories, brands, revenue, profit margin, pack sizes, regional profit and country-     level revenue.
 
- <img src="./PRODUCT_PERFROMANCE.png"alt="Product performance Dashboard">
+ <img src="./STORE_PERFORMANCE.png"
+ alt="Product performance Dashboard">
 
 
  ## KEY INSIGHTS
